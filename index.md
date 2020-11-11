@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jorge Leiseca Compositor
 
 You can use the [editor on GitHub](https://github.com/jorge-leiseca/compositor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
